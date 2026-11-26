@@ -1,0 +1,12 @@
+{
+  "name": "pontofit",
+  "version": "2.0.0",
+  "private": true,
+  "description": "PontoFit - sistema web responsivo de treinos em JavaScript",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
